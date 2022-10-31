@@ -17,15 +17,14 @@
   <br><br>
 </p>
 
+<!--
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SamJakob&theme=dark&hide_border=true&stroke=00000000" />
 </p>
+-->
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamJakob&langs_count=20&layout=compact&hide_border=true&theme=dracula&bg_color=151515&title_color=ffffff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamJakob&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=151515&title_color=ffffff&icon_color=429485&hide_rank=true">
-  <br>
-  <br>
+  <img align="center" src="./github-metrics.svg">
 </p>
   
 <p>
