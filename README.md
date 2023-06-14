@@ -11,7 +11,7 @@
   <br>
   You can contact me by email (in the left sidebar).
   <br>
-  You can access my preferred GnuPG key <a href="https://keyserver.ubuntu.com/pks/lookup?search=0x7729C4EC147D0E47&fingerprint=on&op=index">on Ubuntu's Keyserver</a> (<code>0x7729C4EC147D0E47</code>).
+  You can access my preferred GnuPG key <a href="https://keyserver.ubuntu.com/pks/lookup?search=0xD0C4A493B50784C3&fingerprint=on&op=index">on Ubuntu's Keyserver</a> (<code>0xD0C4A493B50784C3</code>).
   <br>
   <sup>(alternatively, see <a href="https://github.com/SamJakob.keys">all</a> keys)</sup>
   <br><br>
