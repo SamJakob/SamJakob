@@ -6,7 +6,7 @@
   <a href="https://apollosoftware.xyz" target="_blank"><img height="17" src="https://user-images.githubusercontent.com/37072691/133508704-8b16ba22-c6a4-4d10-a994-2aa1f3a0df65.png">&nbsp; Apollo Software Limited</a>
   <br>
   <br>
-  <a href="https://samjakob.com/">🌎 Website</a> &#x2022; <a href="https://blog.samjakob.com/">📓 Blog</a> &#x2022; <a href="https://twitter.com/SamJakobNBTX">🐦 Twitter</a>
+  <a href="https://samjakob.com/">🌎 Website</a> &#x2022; <a href="https://blog.samjakob.com/">📓 Blog</a>
   <br>
   <br>
   You can contact me by email (in the left sidebar).
