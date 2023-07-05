@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1445" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1428" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1456 Commits
+                            1457 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            137 issue comments
+                            138 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.15m added, 1.14m removed
+                                    2.32m added, 262k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.12k views in last two weeks
+                                    1.13k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -226,20 +226,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 210mb of code in 14286 edited files across 573 commits</small>
+                <small>estimation from 210mb of code in 14311 edited files across 574 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="250.00806557341394" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="250.00806557341394" y="0" width="174.624485630894" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="424.6325512043079" y="0" width="135.88759671891268" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="560.5201479232206" y="0" width="94.20675538596034" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="654.7269033091809" y="0" width="89.4596911640586" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="744.1865944732394" y="0" width="81.76895243607505" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="825.9555469093145" y="0" width="59.1283380750044" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="885.083884984319" y="0" width="34.916115015681044" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.44142143521506" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="249.44142143521506" y="0" width="175.21805149423457" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="424.65947292944963" y="0" width="135.57960701482813" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="560.2390799442777" y="0" width="93.9932354517304" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="654.2323153960082" y="0" width="90.35276076393221" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="744.5850761599404" y="0" width="81.58362282489513" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="826.1686989848355" y="0" width="58.99432349393559" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="885.1630224787712" y="0" width="34.836977521228874" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -354,12 +354,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 21 commits)</small>
+                    <small class="h-details">(computed from last 22 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 41.2 characters per line of code written</li>
+                        <li>Has approximately 41.1 characters per line of code written</li>
                         <li>Mostly pushes code around 01:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -374,6 +374,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">SamJakob/http</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/cancellation</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4c845da</div>
+                                        <div class="message">Pass timeout through to ActiveRequestTracker</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -448,127 +468,6 @@
                                 <div class="details">
                                     <div> in <span class="repo">SamJakob/http</span></div>
                                     <div>1 file changed <span class="code">++1 --1</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">SamJakob/http</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/cancellation</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#50679a8</div>
-                                        <div class="message">Merge pull request #1 from dart-lang/master
-
-Bump actions/labeler from 4.0.4 to 4.2.0 (#976)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d3e78a0</div>
-                                        <div class="message">Bump actions/labeler from 4.0.4 to 4.2.0 (#976)
-
-Bumps [actions/labeler](https://github.com/actions/labeler) from 4.0.4 to 4.2.0.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/actions/labeler/releases"&gt;actions/labeler's releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;v4.2.0&lt;/h2&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;p&gt;In the scope of this release, the following outputs were added by &lt;a href="https://github.com/danielsht86"&gt;&lt;code&gt;@âdanielsht86&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/issues/60"&gt;#60&lt;/a&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;new-labels&lt;/code&gt; - a comma-separated string that contains all newly added labels.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;all-labels&lt;/code&gt; - a comma-separated string that contains all labels currently assigned to the PR.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For detailed information, please refer to our &lt;a href="https://github.com/actions/labeler/tree/0967ca812e7fdc8f5f71402a1b486d5bd061fe20#outputs"&gt;updated documentation&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The issue of encountering an &lt;code&gt;HttpError: Server Error&lt;/code&gt; when adding more than 50 labels has been successfully resolved by &lt;a href="https://github.com/markmssd"&gt;&lt;code&gt;@âmarkmssd&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/issues/497"&gt;#497&lt;/a&gt;. However, it's important to note that the GitHub API imposes a limit of 100 labels. To ensure smooth operation, a warning message that will alert you if the number of labels exceeds this limit was implemented. From this point forward, if more than 100 labels are specified, only the first 100 will be assigned.&lt;/p&gt;
-&lt;p&gt;The error handling for the &lt;code&gt;Resource not accessible by integration&lt;/code&gt; error was added by &lt;a href="https://github.com/jsoref"&gt;&lt;code&gt;@âjsoref&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/issues/405"&gt;#405&lt;/a&gt;. Now, if the workflow is misconfigured, the labeler provides a clear warning and guidance for correction.&lt;/p&gt;
-&lt;p&gt;This release also includes the following changes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Warn about the limitations of GitHub tokens by &lt;a href="https://github.com/dfandrich"&gt;&lt;code&gt;@âdfandrich&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/491"&gt;actions/labeler#491&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Improve readme by &lt;a href="https://github.com/jsoref"&gt;&lt;code&gt;@âjsoref&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/589"&gt;actions/labeler#589&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bump eslint-plugin-jest from 27.2.1 to 27.2.2 by &lt;a href="https://github.com/dependabot"&gt;&lt;code&gt;@âdependabot&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/591"&gt;actions/labeler#591&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bump eslint from 8.42.0 to 8.43.0 by &lt;a href="https://github.com/dependabot"&gt;&lt;code&gt;@âdependabot&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/592"&gt;actions/labeler#592&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bump &lt;code&gt;@âtypescript-eslint/eslint-plugin&lt;/code&gt; from 5.60.0 to 5.60.1 by &lt;a href="https://github.com/dependabot"&gt;&lt;code&gt;@âdependabot&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/598"&gt;actions/labeler#598&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bump &lt;code&gt;@âtypescript-eslint/parser&lt;/code&gt; from 5.60.0 to 5.60.1 by &lt;a href="https://github.com/dependabot"&gt;&lt;code&gt;@âdependabot&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/597"&gt;actions/labeler#597&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bump &lt;code&gt;@âoctokit/plugin-retry&lt;/code&gt; from 5.0.2 to 5.0.4 by &lt;a href="https://github.com/MaksimZhukov"&gt;&lt;code&gt;@âMaksimZhukov&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/599"&gt;actions/labeler#599&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;New Contributors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/dfandrich"&gt;&lt;code&gt;@âdfandrich&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/labeler/pull/491"&gt;actions/labeler#491&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/markmssd"&gt;&lt;code&gt;@âmarkmssd&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/labeler/pull/497"&gt;actions/labeler#497&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/danielsht86"&gt;&lt;code&gt;@âdanielsht86&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/labeler/pull/60"&gt;actions/labeler#60&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href="https://github.com/actions/labeler/compare/v4...v4.2.0"&gt;https://github.com/actions/labeler/compare/v4...v4.2.0&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;v4.1.0&lt;/h2&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;p&gt;In scope of this release, the &lt;code&gt;dot&lt;/code&gt; input was added by &lt;a href="https://github.com/kachkaev"&gt;&lt;code&gt;@âkachkaev&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/316"&gt;actions/labeler#316&lt;/a&gt;. It allows patterns to match paths starting with a period. This input is set to &lt;code&gt;false&lt;/code&gt; by default.&lt;/p&gt;
-&lt;h3&gt;Usage&lt;/h3&gt;
-&lt;pre lang="yml"&gt;&lt;code&gt;name: &amp;quot;Pull Request Labeler&amp;quot;
-on:
-- pull_request_target
-&lt;p&gt;jobs:
-triage:
-permissions:
-contents: read
-pull-requests: write
-runs-on: ubuntu-latest
-steps:
-- uses: actions/labeler@v4
-with:
-dot: true
-&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/0967ca812e7fdc8f5f71402a1b486d5bd061fe20"&gt;&lt;code&gt;0967ca8&lt;/code&gt;&lt;/a&gt; Added output (&lt;a href="https://redirect.github.com/actions/labeler/issues/60"&gt;#60&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/375538a703ac861e63020440563422fc04246dfb"&gt;&lt;code&gt;375538a&lt;/code&gt;&lt;/a&gt; Bump &lt;code&gt;@âoctokit/plugin-retry&lt;/code&gt; from 5.0.2 to 5.0.4 (&lt;a href="https://redirect.github.com/actions/labeler/issues/599"&gt;#599&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/8d17e8ac4c7d8434ccc0ad5c3fdfe2f56f2b2ab3"&gt;&lt;code&gt;8d17e8a&lt;/code&gt;&lt;/a&gt; Bump &lt;code&gt;@âtypescript-eslint/parser&lt;/code&gt; from 5.60.0 to 5.60.1 (&lt;a href="https://redirect.github.com/actions/labeler/issues/597"&gt;#597&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/9d45a7438fdc8606099442185bbcf343459eb96f"&gt;&lt;code&gt;9d45a74&lt;/code&gt;&lt;/a&gt; Bump &lt;code&gt;@âtypescript-eslint/eslint-plugin&lt;/code&gt; from 5.60.0 to 5.60.1 (&lt;a href="https://redirect.github.com/actions/labeler/issues/598"&gt;#598&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/130636aba50d83a269b855d2501e05254de1eb5f"&gt;&lt;code&gt;130636a&lt;/code&gt;&lt;/a&gt; Bump eslint from 8.42.0 to 8.43.0 (&lt;a href="https://redirect.github.com/actions/labeler/issues/592"&gt;#592&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/54aeabf7b5842651b41d9cd2ad20e0caa73563f2"&gt;&lt;code&gt;54aeabf&lt;/code&gt;&lt;/a&gt; Bump &lt;code&gt;@âtypescript-eslint/parser&lt;/code&gt; from 5.59.11 to 5.60.0 (&lt;a href="https://redirect.github.com/actions/labeler/issues/593"&gt;#593&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/899595ff0140593e7e4bfd1d60fb2a54fc949d2c"&gt;&lt;code&gt;899595f&lt;/code&gt;&lt;/a&gt; Bump eslint-plugin-jest from 27.2.1 to 27.2.2 (&lt;a href="https://redirect.github.com/actions/labeler/issues/591"&gt;#591&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/8056174ee026aec2d0d5596b25946162cd4b1c58"&gt;&lt;code&gt;8056174&lt;/code&gt;&lt;/a&gt; Bump &lt;code&gt;@âtypescript-eslint/eslint-plugin&lt;/code&gt; from 5.59.11 to 5.60.0 (&lt;a href="https://redirect.github.com/actions/labeler/issues/594"&gt;#594&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/7a202e642846429da2c5219d2c934cbbf46a5d94"&gt;&lt;code&gt;7a202e6&lt;/code&gt;&lt;/a&gt; fix: Limit number of labels added to 100 (&lt;a href="https://redirect.github.com/actions/labeler/issues/497"&gt;#497&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/b5ff161cf08995cdc0c16c4d30f62b6471eb2db2"&gt;&lt;code&gt;b5ff161&lt;/code&gt;&lt;/a&gt; Explain misconfigured workflow (&lt;a href="https://redirect.github.com/actions/labeler/issues/405"&gt;#405&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a href="https://github.com/actions/labeler/compare/0776a679364a9a16110aac8d0f40f5e11009e327...0967ca812e7fdc8f5f71402a1b486d5bd061fe20"&gt;compare view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/labeler&amp;package-manager=github_actions&amp;previous-version=4.0.4&amp;new-version=4.2.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
-- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
-
-&lt;/details&gt;</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -899,7 +798,7 @@ You can trigger Dependabot actions by commenting on this PR:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 134k out of 413m repositories</span>
+                                    <span class="gh">ranked 126k out of 413m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 282 stars</div>
                             </div>
@@ -1038,7 +937,7 @@ You can trigger Dependabot actions by commenting on this PR:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.01m out of 413m repositories</span>
+                                    <span class="gh">ranked 956k out of 413m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 10 times</div>
                             </div>
@@ -1184,7 +1083,7 @@ You can trigger Dependabot actions by commenting on this PR:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jul 2023, 16:11:46 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Jul 2023, 17:14:34 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
