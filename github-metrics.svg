@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1695" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1443" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.number{color:#2777aa}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -32,7 +32,7 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.43m added, 1.25m removed
+                                    1.31m added, 1.22m removed
                                 </div>
                             </section>
                             <section>
@@ -226,7 +226,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 213mb of code in 14596 edited files across 623 commits</small>
+                <small>estimation from 213mb of code in 14594 edited files across 623 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
@@ -354,12 +354,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 29 commits)</small>
+                    <small class="h-details">(computed from last 31 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 46.2 characters per line of code written</li>
+                        <li>Has approximately 37.6 characters per line of code written</li>
                         <li>Mostly pushes code around 01:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -374,6 +374,46 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">apollosoftwarexyz/daphne</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d34e751</div>
+                                        <div class="message">Initial commit</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">apollosoftwarexyz/daphne</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#349bc65</div>
+                                        <div class="message">Initial commit</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -425,537 +465,6 @@ Launching lib/main.dart on iPhone 15 Pro Max in debug mode...
                                         I ended up solving this by creating a second scheme in Xcode with the name "Runner", it would be best if the 'default' scheme name was resolved based on the name of the Xcode project (i.e.,
                                         <code>_defaultHostAppName</code>
                                         ) with "Runner" as a fallback - or alternatively, if there was a way for the default scheme to be user-specified.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">SamJakob/dart-http</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/cancellation</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#88ec75e</div>
-                                        <div class="message">Bump actions/checkout from 3 to 4 (#1025)
-
-Bumps [actions/checkout](https://github.com/actions/checkout) from 3 to 4.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/actions/checkout/releases"&gt;actions/checkout's releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;v4.0.0&lt;/h2&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Update default runtime to node20 by &lt;a href="https://github.com/takost"&gt;&lt;code&gt;@âtakost&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/checkout/pull/1436"&gt;actions/checkout#1436&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support fetching without the --progress option by &lt;a href="https://github.com/simonbaird"&gt;&lt;code&gt;@âsimonbaird&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/checkout/pull/1067"&gt;actions/checkout#1067&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Release 4.0.0 by &lt;a href="https://github.com/takost"&gt;&lt;code&gt;@âtakost&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/checkout/pull/1447"&gt;actions/checkout#1447&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;New Contributors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/takost"&gt;&lt;code&gt;@âtakost&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/checkout/pull/1436"&gt;actions/checkout#1436&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/simonbaird"&gt;&lt;code&gt;@âsimonbaird&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/checkout/pull/1067"&gt;actions/checkout#1067&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href="https://github.com/actions/checkout/compare/v3...v4.0.0"&gt;https://github.com/actions/checkout/compare/v3...v4.0.0&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;v3.6.0&lt;/h2&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Mark test scripts with Bash'isms to be run via Bash by &lt;a href="https://github.com/dscho"&gt;&lt;code&gt;@âdscho&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/checkout/pull/1377"&gt;actions/checkout#1377&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add option to fetch tags even if fetch-depth &amp;gt; 0 by &lt;a href="https://github.com/RobertWieczoreck"&gt;&lt;code&gt;@âRobertWieczoreck&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/checkout/pull/579"&gt;actions/checkout#579&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Release 3.6.0 by &lt;a href="https://github.com/luketomlinson"&gt;&lt;code&gt;@âluketomlinson&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/checkout/pull/1437"&gt;actions/checkout#1437&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;New Contributors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/RobertWieczoreck"&gt;&lt;code&gt;@âRobertWieczoreck&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/checkout/pull/579"&gt;actions/checkout#579&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/luketomlinson"&gt;&lt;code&gt;@âluketomlinson&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/checkout/pull/1437"&gt;actions/checkout#1437&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href="https://github.com/actions/checkout/compare/v3.5.3...v3.6.0"&gt;https://github.com/actions/checkout/compare/v3.5.3...v3.6.0&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;v3.5.3&lt;/h2&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix: Checkout Issue in self hosted runner due to faulty submodule check-ins by &lt;a href="https://github.com/megamanics"&gt;&lt;code&gt;@âmegamanics&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/checkout/pull/1196"&gt;actions/checkout#1196&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix typos found by codespell by &lt;a href="https://github.com/DimitriPapadopoulos"&gt;&lt;code&gt;@âDimitriPapadopoulos&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/checkout/pull/1287"&gt;actions/checkout#1287&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add support for sparse checkouts by &lt;a href="https://github.com/dscho"&gt;&lt;code&gt;@âdscho&lt;/code&gt;&lt;/a&gt; and &lt;a href="https://github.com/dfdez"&gt;&lt;code&gt;@âdfdez&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/checkout/pull/1369"&gt;actions/checkout#1369&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Release v3.5.3 by &lt;a href="https://github.com/TingluoHuang"&gt;&lt;code&gt;@âTingluoHuang&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/checkout/pull/1376"&gt;actions/checkout#1376&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;New Contributors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/megamanics"&gt;&lt;code&gt;@âmegamanics&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/checkout/pull/1196"&gt;actions/checkout#1196&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/DimitriPapadopoulos"&gt;&lt;code&gt;@âDimitriPapadopoulos&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/checkout/pull/1287"&gt;actions/checkout#1287&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/dfdez"&gt;&lt;code&gt;@âdfdez&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/checkout/pull/1369"&gt;actions/checkout#1369&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href="https://github.com/actions/checkout/compare/v3...v3.5.3"&gt;https://github.com/actions/checkout/compare/v3...v3.5.3&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;v3.5.2&lt;/h2&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix: Use correct API url / endpoint in GHES by &lt;a href="https://github.com/fhammerl"&gt;&lt;code&gt;@âfhammerl&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/checkout/pull/1289"&gt;actions/checkout#1289&lt;/a&gt; based on &lt;a href="https://redirect.github.com/actions/checkout/issues/1286"&gt;#1286&lt;/a&gt; by &lt;a href="https://github.com/1newsr"&gt;&lt;code&gt;@â1newsr&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href="https://github.com/actions/checkout/compare/v3.5.1...v3.5.2"&gt;https://github.com/actions/checkout/compare/v3.5.1...v3.5.2&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;v3.5.1&lt;/h2&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Improve checkout performance on Windows runners by upgrading &lt;code&gt;@âactions/github&lt;/code&gt; dependency by &lt;a href="https://github.com/BrettDong"&gt;&lt;code&gt;@âBrettDong&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/checkout/pull/1246"&gt;actions/checkout#1246&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;New Contributors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/BrettDong"&gt;&lt;code&gt;@âBrettDong&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/checkout/pull/1246"&gt;actions/checkout#1246&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/checkout/commit/8ade135a41bc03ea155e62e844d188df1ea18608"&gt;&lt;code&gt;8ade135&lt;/code&gt;&lt;/a&gt; Prepare 4.1.0 release (&lt;a href="https://redirect.github.com/actions/checkout/issues/1496"&gt;#1496&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/checkout/commit/c533a0a4cfc4962971818edcfac47a2899e69799"&gt;&lt;code&gt;c533a0a&lt;/code&gt;&lt;/a&gt; Add support for partial checkout filters (&lt;a href="https://redirect.github.com/actions/checkout/issues/1396"&gt;#1396&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/checkout/commit/72f2cec99f417b1a1c5e2e88945068983b7965f9"&gt;&lt;code&gt;72f2cec&lt;/code&gt;&lt;/a&gt; Update README.md for V4 (&lt;a href="https://redirect.github.com/actions/checkout/issues/1452"&gt;#1452&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/checkout/commit/3df4ab11eba7bda6032a0b82a6bb43b11571feac"&gt;&lt;code&gt;3df4ab1&lt;/code&gt;&lt;/a&gt; Release 4.0.0 (&lt;a href="https://redirect.github.com/actions/checkout/issues/1447"&gt;#1447&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/checkout/commit/8b5e8b768746b50394015010d25e690bfab9dfbc"&gt;&lt;code&gt;8b5e8b7&lt;/code&gt;&lt;/a&gt; Support fetching without the --progress option (&lt;a href="https://redirect.github.com/actions/checkout/issues/1067"&gt;#1067&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/checkout/commit/97a652b80035363df47baee5031ec8670b8878ac"&gt;&lt;code&gt;97a652b&lt;/code&gt;&lt;/a&gt; Update default runtime to node20 (&lt;a href="https://redirect.github.com/actions/checkout/issues/1436"&gt;#1436&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;See full diff in &lt;a href="https://github.com/actions/checkout/compare/v3...v4"&gt;compare view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/checkout&amp;package-manager=github_actions&amp;previous-version=3&amp;new-version=4)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
-
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08143d1</div>
-                                        <div class="message">Bump dart-lang/setup-dart from 1.5.0 to 1.5.1 (#1024)
-
-Bumps [dart-lang/setup-dart](https://github.com/dart-lang/setup-dart) from 1.5.0 to 1.5.1.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/dart-lang/setup-dart/releases"&gt;dart-lang/setup-dart's releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;v1.5.1&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;No longer test the &lt;code&gt;setup-dart&lt;/code&gt; action on pre-2.12 SDKs.&lt;/li&gt;
-&lt;li&gt;Upgrade JS interop code to use extension types (the new name for inline classes).&lt;/li&gt;
-&lt;li&gt;The upcoming rename of the &lt;code&gt;be&lt;/code&gt; channel to &lt;code&gt;main&lt;/code&gt; is now supported with forward compatibility that switches when the rename happens.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/dart-lang/setup-dart/blob/main/CHANGELOG.md"&gt;dart-lang/setup-dart's changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;v1.6.0&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Enable provisioning of the latest Dart SDK patch release by specifying just
-the major and minor version (e.g. &lt;code&gt;3.2&lt;/code&gt;).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v1.5.1&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;No longer test the &lt;code&gt;setup-dart&lt;/code&gt; action on pre-2.12 SDKs.&lt;/li&gt;
-&lt;li&gt;Upgrade JS interop code to use extension types
-(the new name for inline classes).&lt;/li&gt;
-&lt;li&gt;The upcoming rename of the &lt;code&gt;be&lt;/code&gt; channel to &lt;code&gt;main&lt;/code&gt; is now supported with
-forward compatibility that switches when the rename happens.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v1.5.0&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Re-wrote the implementation of the action into Dart.&lt;/li&gt;
-&lt;li&gt;Auto-detect the platform architecture (&lt;code&gt;x64&lt;/code&gt;, &lt;code&gt;ia32&lt;/code&gt;, &lt;code&gt;arm&lt;/code&gt;, &lt;code&gt;arm64&lt;/code&gt;).&lt;/li&gt;
-&lt;li&gt;Improved the caching and download resilience of the sdk.&lt;/li&gt;
-&lt;li&gt;Added a new action output: &lt;code&gt;dart-version&lt;/code&gt; - the installed version of the sdk.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v1.4.0&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Automatically create OIDC token for pub.dev.&lt;/li&gt;
-&lt;li&gt;Add a reusable workflow for publishing.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v1.3.0&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;The install location of the Dart SDK is now available
-in an environment variable, &lt;code&gt;DART_HOME&lt;/code&gt;
-(&lt;a href="https://redirect.github.com/dart-lang/setup-dart/issues/43"&gt;#43&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;Fixed an issue where cached downloads could lead to unzip issues
-on self-hosted runners
-(&lt;a href="https://redirect.github.com/dart-lang/setup-dart/issues/35"&gt;#35&lt;/a&gt;).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v1.2.0&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed a path issue impacting git dependencies on Windows.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v1.1.0&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Added a &lt;code&gt;flavor&lt;/code&gt; option setup.sh to allow downloading unpublished builds.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v1.0.0&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Promoted to 1.0 stable.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;v0.5&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed a Windows &lt;code&gt;pub global activate&lt;/code&gt; path issue.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/dart-lang/setup-dart/commit/8a4b97ea2017cc079571daec46542f76189836b1"&gt;&lt;code&gt;8a4b97e&lt;/code&gt;&lt;/a&gt; Support renaming the be channel to main. (&lt;a href="https://redirect.github.com/dart-lang/setup-dart/issues/102"&gt;#102&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/dart-lang/setup-dart/commit/0970dcf46e056fb521e7027775fdff076fe1e732"&gt;&lt;code&gt;0970dcf&lt;/code&gt;&lt;/a&gt; Bump &lt;code&gt;@âactions/http-client&lt;/code&gt; from 2.1.0 to 2.1.1 (&lt;a href="https://redirect.github.com/dart-lang/setup-dart/issues/101"&gt;#101&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/dart-lang/setup-dart/commit/e58aeb62aef51dcc4d0ba8eada7c08092aad5314"&gt;&lt;code&gt;e58aeb6&lt;/code&gt;&lt;/a&gt; updates for the latest version of extension types (&lt;a href="https://redirect.github.com/dart-lang/setup-dart/issues/100"&gt;#100&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/dart-lang/setup-dart/commit/deafe40ee7284c48e67c783c88eed8c8b52b19ca"&gt;&lt;code&gt;deafe40&lt;/code&gt;&lt;/a&gt; Convert to extension types (&lt;a href="https://redirect.github.com/dart-lang/setup-dart/issues/99"&gt;#99&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/dart-lang/setup-dart/commit/cdb51fff2b088939ef86fe041b18e82cb4733522"&gt;&lt;code&gt;cdb51ff&lt;/code&gt;&lt;/a&gt; Bump semver from 6.3.0 to 6.3.1 (&lt;a href="https://redirect.github.com/dart-lang/setup-dart/issues/98"&gt;#98&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/dart-lang/setup-dart/commit/e2fce1213c49504e0029ade4bac39403dfc11fb3"&gt;&lt;code&gt;e2fce12&lt;/code&gt;&lt;/a&gt; update JS interop - remove JS typedef references (&lt;a href="https://redirect.github.com/dart-lang/setup-dart/issues/97"&gt;#97&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/dart-lang/setup-dart/commit/42c988f214b6652e0b56ca2ad2f1d477bf6098b7"&gt;&lt;code&gt;42c988f&lt;/code&gt;&lt;/a&gt; set up a cron to build the action's javascript (&lt;a href="https://redirect.github.com/dart-lang/setup-dart/issues/96"&gt;#96&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/dart-lang/setup-dart/commit/007c7cbb377cdbdf8922e2f8c4172dc60fbaaf9a"&gt;&lt;code&gt;007c7cb&lt;/code&gt;&lt;/a&gt; blast_repo fixes (&lt;a href="https://redirect.github.com/dart-lang/setup-dart/issues/92"&gt;#92&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/dart-lang/setup-dart/commit/08de7e0c9a57cb3229b052af11c7f8eae4a845bd"&gt;&lt;code&gt;08de7e0&lt;/code&gt;&lt;/a&gt; Remove annotations no longer needed (&lt;a href="https://redirect.github.com/dart-lang/setup-dart/issues/91"&gt;#91&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/dart-lang/setup-dart/commit/bd8bef0960777f45de11f484bcb7beacadb321cf"&gt;&lt;code&gt;bd8bef0&lt;/code&gt;&lt;/a&gt; Bump dart-lang/setup-dart from 1.4.0 to 1.5.0 (&lt;a href="https://redirect.github.com/dart-lang/setup-dart/issues/89"&gt;#89&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a href="https://github.com/dart-lang/setup-dart/compare/d6a63dab3335f427404425de0fbfed4686d93c4f...8a4b97ea2017cc079571daec46542f76189836b1"&gt;compare view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=dart-lang/setup-dart&amp;package-manager=github_actions&amp;previous-version=1.5.0&amp;new-version=1.5.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
-
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c99da1</div>
-                                        <div class="message">Bump actions/cache from 3.3.1 to 3.3.2 (#1023)
-
-Bumps [actions/cache](https://github.com/actions/cache) from 3.3.1 to 3.3.2.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/actions/cache/releases"&gt;actions/cache's releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;v3.3.2&lt;/h2&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed readme with new segment timeout values by &lt;a href="https://github.com/kotewar"&gt;&lt;code&gt;@âkotewar&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/cache/pull/1133"&gt;actions/cache#1133&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Readme fixes by &lt;a href="https://github.com/kotewar"&gt;&lt;code&gt;@âkotewar&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/cache/pull/1134"&gt;actions/cache#1134&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Updated description of the lookup-only input for main action by &lt;a href="https://github.com/kotewar"&gt;&lt;code&gt;@âkotewar&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/cache/pull/1130"&gt;actions/cache#1130&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Change two new actions mention as quoted text by &lt;a href="https://github.com/bishal-pdMSFT"&gt;&lt;code&gt;@âbishal-pdMSFT&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/cache/pull/1131"&gt;actions/cache#1131&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Update Cross-OS Caching tips by &lt;a href="https://github.com/pdotl"&gt;&lt;code&gt;@âpdotl&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/cache/pull/1122"&gt;actions/cache#1122&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bazel example (Take &lt;a href="https://redirect.github.com/actions/cache/issues/2"&gt;#2&lt;/a&gt;ï¸â£) by &lt;a href="https://github.com/vorburger"&gt;&lt;code&gt;@âvorburger&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/cache/pull/1132"&gt;actions/cache#1132&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Remove actions to add new PRs and issues to a project board by &lt;a href="https://github.com/jorendorff"&gt;&lt;code&gt;@âjorendorff&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/cache/pull/1187"&gt;actions/cache#1187&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Consume latest toolkit and fix dangling promise bug by &lt;a href="https://github.com/chkimes"&gt;&lt;code&gt;@âchkimes&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/cache/pull/1217"&gt;actions/cache#1217&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bump action version to 3.3.2 by &lt;a href="https://github.com/bethanyj28"&gt;&lt;code&gt;@âbethanyj28&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/cache/pull/1236"&gt;actions/cache#1236&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;New Contributors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/vorburger"&gt;&lt;code&gt;@âvorburger&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/cache/pull/1132"&gt;actions/cache#1132&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/jorendorff"&gt;&lt;code&gt;@âjorendorff&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/cache/pull/1187"&gt;actions/cache#1187&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/chkimes"&gt;&lt;code&gt;@âchkimes&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/cache/pull/1217"&gt;actions/cache#1217&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/bethanyj28"&gt;&lt;code&gt;@âbethanyj28&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/cache/pull/1236"&gt;actions/cache#1236&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href="https://github.com/actions/cache/compare/v3...v3.3.2"&gt;https://github.com/actions/cache/compare/v3...v3.3.2&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/actions/cache/blob/main/RELEASES.md"&gt;actions/cache's changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h1&gt;Releases&lt;/h1&gt;
-&lt;h3&gt;3.0.0&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Updated minimum runner version support from node 12 -&amp;gt; node 16&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;3.0.1&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Added support for caching from GHES 3.5.&lt;/li&gt;
-&lt;li&gt;Fixed download issue for files &amp;gt; 2GB during restore.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;3.0.2&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Added support for dynamic cache size cap on GHES.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;3.0.3&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed avoiding empty cache save when no files are available for caching. (&lt;a href="https://redirect.github.com/actions/cache/issues/624"&gt;issue&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;3.0.4&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed tar creation error while trying to create tar with path as &lt;code&gt;~/&lt;/code&gt; home folder on &lt;code&gt;ubuntu-latest&lt;/code&gt;. (&lt;a href="https://redirect.github.com/actions/cache/issues/689"&gt;issue&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;3.0.5&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Removed error handling by consuming actions/cache 3.0 toolkit, Now cache server error handling will be done by toolkit. (&lt;a href="https://redirect.github.com/actions/cache/pull/834"&gt;PR&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;3.0.6&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed &lt;a href="https://redirect.github.com/actions/cache/issues/809"&gt;#809&lt;/a&gt; - zstd -d: no such file or directory error&lt;/li&gt;
-&lt;li&gt;Fixed &lt;a href="https://redirect.github.com/actions/cache/issues/833"&gt;#833&lt;/a&gt; - cache doesn't work with github workspace directory&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;3.0.7&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed &lt;a href="https://redirect.github.com/actions/cache/issues/810"&gt;#810&lt;/a&gt; - download stuck issue. A new timeout is introduced in the download process to abort the download if it gets stuck and doesn't finish within an hour.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;3.0.8&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix zstd not working for windows on gnu tar in issues &lt;a href="https://redirect.github.com/actions/cache/issues/888"&gt;#888&lt;/a&gt; and &lt;a href="https://redirect.github.com/actions/cache/issues/891"&gt;#891&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Allowing users to provide a custom timeout as input for aborting download of a cache segment using an environment variable &lt;code&gt;SEGMENT_DOWNLOAD_TIMEOUT_MINS&lt;/code&gt;. Default is 60 minutes.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;3.0.9&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Enhanced the warning message for cache unavailablity in case of GHES.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;3.0.10&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Fix a bug with sorting inputs.&lt;/li&gt;
-&lt;li&gt;Update definition for restore-keys in README.md&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;... (truncated)&lt;/p&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/cache/commit/704facf57e6136b1bc63b828d79edcd491f0ee84"&gt;&lt;code&gt;704facf&lt;/code&gt;&lt;/a&gt; Merge pull request &lt;a href="https://redirect.github.com/actions/cache/issues/1236"&gt;#1236&lt;/a&gt; from actions/bethanyj28/bump-version&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/cache/commit/17e2888746ae4cdbac78cbb1a45a157d310c0e53"&gt;&lt;code&gt;17e2888&lt;/code&gt;&lt;/a&gt; Add to RELEASES.md&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/cache/commit/667d8fdfa213683cee9fcaad43be0f25322bef02"&gt;&lt;code&gt;667d8fd&lt;/code&gt;&lt;/a&gt; bump action version to 3.3.2&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/cache/commit/f7ebb81a3f195b4fb88dab7c14e2f7aff52045aa"&gt;&lt;code&gt;f7ebb81&lt;/code&gt;&lt;/a&gt; Consume latest toolkit and fix dangling promise bug (&lt;a href="https://redirect.github.com/actions/cache/issues/1217"&gt;#1217&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/cache/commit/67b839edb68371cc5014f6cea11c9aa77238de78"&gt;&lt;code&gt;67b839e&lt;/code&gt;&lt;/a&gt; Merge pull request &lt;a href="https://redirect.github.com/actions/cache/issues/1187"&gt;#1187&lt;/a&gt; from jorendorff/jorendorff/rm-add-to-project&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/cache/commit/57f0e3f198251983d70fc3c83e71b973822da983"&gt;&lt;code&gt;57f0e3f&lt;/code&gt;&lt;/a&gt; Remove actions to add new PRs and issues to a project board&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/cache/commit/04f198bf0b2a39f7230a4304bf07747a0bddf146"&gt;&lt;code&gt;04f198b&lt;/code&gt;&lt;/a&gt; Merge pull request &lt;a href="https://redirect.github.com/actions/cache/issues/1132"&gt;#1132&lt;/a&gt; from vorburger/bazel-example&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/cache/commit/bd9b49b6c3b91fb2f92c80901a466ba260a746eb"&gt;&lt;code&gt;bd9b49b&lt;/code&gt;&lt;/a&gt; Merge branch 'main' into bazel-example&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/cache/commit/ea0503788c59256f4da17725d04df850ca027df5"&gt;&lt;code&gt;ea05037&lt;/code&gt;&lt;/a&gt; Merge pull request &lt;a href="https://redirect.github.com/actions/cache/issues/1122"&gt;#1122&lt;/a&gt; from actions/pdotl-patch-1&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/cache/commit/6a1a45d49b4738670d9804cd9a8fee56a01b6bf2"&gt;&lt;code&gt;6a1a45d&lt;/code&gt;&lt;/a&gt; Merge branch 'main' into pdotl-patch-1&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a href="https://github.com/actions/cache/compare/88522ab9f39a2ea568f7027eddc7d8d8bc9d59c8...704facf57e6136b1bc63b828d79edcd491f0ee84"&gt;compare view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/cache&amp;package-manager=github_actions&amp;previous-version=3.3.1&amp;new-version=3.3.2)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
-- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all of the ignore conditions of the specified dependency
-- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
-
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1251619</div>
-                                        <div class="message">Add the ability to control the URL cache. (#1020)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#decefa6</div>
-                                        <div class="message">Remove invalid status line tests and replace them with valid status line tests (#1018)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e19094a</div>
-                                        <div class="message">Use efficient operations when copying bytes between Dart and Java (#1019)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7e4375</div>
-                                        <div class="message">Cleanup `package:http` utils (#1011)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eafbbb0</div>
-                                        <div class="message">Separate the cronet callbacks from the `send` method (#1017)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2cbb703</div>
-                                        <div class="message">Switch `cronet_http` to use jnigen (#1016)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de19214</div>
-                                        <div class="message">Avoid passing a nullable value to Completer&lt;nn-type&gt;.complete (#1015)
-
-This is cleanup work required to start enforcing this with static analysis, as per https://github.com/dart-lang/sdk/issues/53253.
-
-Real quick this issue is that this code is unsafe:
-
-```dart
-void f(Completer&lt;int&gt; c, int? i) {
-  Future&lt;int&gt;.value(i); // Ouch!
-  c.complete(i);        // Ouch!
-}
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7fb6fd6</div>
-                                        <div class="message">Clarify how to set the body without a content type header (#1014)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cad7d60</div>
-                                        <div class="message">Add response status code test (#1009)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ac7cfe</div>
-                                        <div class="message">JavaClient stream response body using byte arrays (#1007)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e6e58a</div>
-                                        <div class="message">Don't check the formatting of `ffigen`ed code (#1010)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#631d4ec</div>
-                                        <div class="message">Add java_http .gitattributes file (#999)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58a5462</div>
-                                        <div class="message">JavaClient can stream the HTTP response body (#1005)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df1f625</div>
-                                        <div class="message">Add some additional header tests (#1006)
-
-* Add some additional header tests
-
-- Tests for folder headers
-- Tests for headers values containing spaces
-- Tests for header names that are upper case</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f167a7</div>
-                                        <div class="message">Remove example test from java_http (#1001)
-
-The example test was generated by the Dart 'create' command.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e9ed12</div>
-                                        <div class="message">Bump actions/labeler from 4.2.0 to 4.3.0 (#1000)
-
-Bumps [actions/labeler](https://github.com/actions/labeler) from 4.2.0 to 4.3.0.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-&lt;p&gt;&lt;em&gt;Sourced from &lt;a href="https://github.com/actions/labeler/releases"&gt;actions/labeler's releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;v4.3.0&lt;/h2&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;p&gt;In scope of this release, the ability to specify pull request number(s) was added by &lt;a href="https://github.com/credfeto"&gt;&lt;code&gt;@âcredfeto&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/349"&gt;actions/labeler#349&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Support for reading from the configuration file presented on the runner was added by &lt;a href="https://github.com/lrstanley"&gt;&lt;code&gt;@âlrstanley&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/394"&gt;actions/labeler#394&lt;/a&gt;. It allows you to use a configuration file generated during workflow run or uploaded from a separate repository.&lt;/p&gt;
-&lt;p&gt;Please refer to the &lt;a href="https://github.com/actions/labeler#inputs"&gt;action documentation&lt;/a&gt; for more information.&lt;/p&gt;
-&lt;p&gt;This release also includes the following changes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Improved Error message for missing config file by &lt;a href="https://github.com/Gornoka"&gt;&lt;code&gt;@âGornoka&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/475"&gt;actions/labeler#475&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Early exit when no files are changed by &lt;a href="https://github.com/nathanhammond"&gt;&lt;code&gt;@ânathanhammond&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/456"&gt;actions/labeler#456&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Add examples to match all repo files by &lt;a href="https://github.com/MaksimZhukov"&gt;&lt;code&gt;@âMaksimZhukov&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/600"&gt;actions/labeler#600&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Fix a typo in the example about using the action outputs by &lt;a href="https://github.com/MaksimZhukov"&gt;&lt;code&gt;@âMaksimZhukov&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/606"&gt;actions/labeler#606&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bump eslint from 8.43.0 to 8.44.0 by &lt;a href="https://github.com/dependabot"&gt;&lt;code&gt;@âdependabot&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/601"&gt;actions/labeler#601&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bump &lt;code&gt;@âtypescript-eslint/parser&lt;/code&gt; from 5.60.1 to 5.61.0 by &lt;a href="https://github.com/dependabot"&gt;&lt;code&gt;@âdependabot&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/602"&gt;actions/labeler#602&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bump &lt;code&gt;@âtypescript-eslint/eslint-plugin&lt;/code&gt; from 5.60.1 to 5.61.0 by &lt;a href="https://github.com/dependabot"&gt;&lt;code&gt;@âdependabot&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/604"&gt;actions/labeler#604&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bump tough-cookie from 4.1.2 to 4.1.3 by &lt;a href="https://github.com/dependabot"&gt;&lt;code&gt;@âdependabot&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/609"&gt;actions/labeler#609&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bump &lt;code&gt;@âoctokit/plugin-retry&lt;/code&gt; from 5.0.4 to 5.0.5 by &lt;a href="https://github.com/MaksimZhukov"&gt;&lt;code&gt;@âMaksimZhukov&lt;/code&gt;&lt;/a&gt; in &lt;a href="https://redirect.github.com/actions/labeler/pull/610"&gt;actions/labeler#610&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;New Contributors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/credfeto"&gt;&lt;code&gt;@âcredfeto&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/labeler/pull/349"&gt;actions/labeler#349&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/lrstanley"&gt;&lt;code&gt;@âlrstanley&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/labeler/pull/394"&gt;actions/labeler#394&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/nathanhammond"&gt;&lt;code&gt;@ânathanhammond&lt;/code&gt;&lt;/a&gt; made their first contribution in &lt;a href="https://redirect.github.com/actions/labeler/pull/456"&gt;actions/labeler#456&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a href="https://github.com/actions/labeler/compare/v4...v4.3.0"&gt;https://github.com/actions/labeler/compare/v4...v4.3.0&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/ac9175f8a1f3625fd0d4fb234536d26811351594"&gt;&lt;code&gt;ac9175f&lt;/code&gt;&lt;/a&gt; Bump &lt;code&gt;@âoctokit/plugin-retry&lt;/code&gt; from 5.0.4 to 5.0.5 (&lt;a href="https://redirect.github.com/actions/labeler/issues/610"&gt;#610&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/7542ec79bbc4b2df8fc6983f925b7d2c4cee14bf"&gt;&lt;code&gt;7542ec7&lt;/code&gt;&lt;/a&gt; Bump tough-cookie from 4.1.2 to 4.1.3 (&lt;a href="https://redirect.github.com/actions/labeler/issues/609"&gt;#609&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/be13bbd1b71393037c1fca23f8dd890c37314acb"&gt;&lt;code&gt;be13bbd&lt;/code&gt;&lt;/a&gt; Early exit when no files are changed. (&lt;a href="https://redirect.github.com/actions/labeler/issues/456"&gt;#456&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/994304c5d5eaa3767a8d1b4b28b05fcb357b09cf"&gt;&lt;code&gt;994304c&lt;/code&gt;&lt;/a&gt; feat(config): support reading from local file if it exists (&lt;a href="https://redirect.github.com/actions/labeler/issues/394"&gt;#394&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/327d35fdca04144f9c5921602b72567e46a3df4d"&gt;&lt;code&gt;327d35f&lt;/code&gt;&lt;/a&gt; Added ability to pass in an optional PR number as a parameter (&lt;a href="https://redirect.github.com/actions/labeler/issues/349"&gt;#349&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/65f306b6dd0b8a09b1b328b60fd3ac0569042bf1"&gt;&lt;code&gt;65f306b&lt;/code&gt;&lt;/a&gt; Fix a typo in the example about using the action outputs (&lt;a href="https://redirect.github.com/actions/labeler/issues/606"&gt;#606&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/b669025b7ce59f25f82f9c71a432c15232ccb9ae"&gt;&lt;code&gt;b669025&lt;/code&gt;&lt;/a&gt; Bump &lt;code&gt;@âtypescript-eslint/eslint-plugin&lt;/code&gt; from 5.60.1 to 5.61.0 (&lt;a href="https://redirect.github.com/actions/labeler/issues/604"&gt;#604&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/52979ba0af23b8aa1272d83a62fbf9d4e13c8a24"&gt;&lt;code&gt;52979ba&lt;/code&gt;&lt;/a&gt; Bump &lt;code&gt;@âtypescript-eslint/parser&lt;/code&gt; from 5.60.1 to 5.61.0 (&lt;a href="https://redirect.github.com/actions/labeler/issues/602"&gt;#602&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/5bea1458bb4447df9047383f3c51225b82cda3ba"&gt;&lt;code&gt;5bea145&lt;/code&gt;&lt;/a&gt; Bump eslint from 8.43.0 to 8.44.0 (&lt;a href="https://redirect.github.com/actions/labeler/issues/601"&gt;#601&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/actions/labeler/commit/a2124851476f3021a479b14e553878efba8cd0dc"&gt;&lt;code&gt;a212485&lt;/code&gt;&lt;/a&gt; Add examples to match all repo files (&lt;a href="https://redirect.github.com/actions/labeler/issues/600"&gt;#600&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Additional commits viewable in &lt;a href="https://github.com/actions/labeler/compare/0967ca812e7fdc8f5f71402a1b486d5bd061fe20...ac9175f8a1f3625fd0d4fb234536d26811351594"&gt;compare view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;br /&gt;
-
-[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/labeler&amp;package-manager=github_actions&amp;previous-version=4.2.0&amp;new-version=4.3.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
-
-Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot recreate` will recreate this PR, overwriting any edits that have been made to it
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot squash and merge` will squash and merge this PR after your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge and block automerging
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot close` will close this PR and stop Dependabot recreating it. You can achieve the same result by closing it manually
-- `@dependabot ignore this major version` will close this PR and stop Dependabot creating any more for this major version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this minor version` will close this PR and stop Dependabot creating any more for this minor version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
-
-&lt;/details&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e8e35db</div>
-                                        <div class="message">[java_http] send request body (#995)</div>
                                     </div>
                                 </div>
                             </section>
@@ -1111,7 +620,7 @@ You can trigger Dependabot actions by commenting on this PR:
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 271k out of 121m users</span>
+                                    <span class="gh">ranked 271k out of 115m users</span>
                                 </div>
                                 <div class="text">Published 78 public repositories</div>
                             </div>
@@ -1255,7 +764,7 @@ You can trigger Dependabot actions by commenting on this PR:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 130k out of 58.8m repositories</span>
+                                    <span class="gh">ranked 130k out of 61.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 303 stars</div>
                             </div>
@@ -1339,7 +848,7 @@ You can trigger Dependabot actions by commenting on this PR:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 195k out of 121m users</span>
+                                    <span class="gh">ranked 195k out of 115m users</span>
                                 </div>
                                 <div class="text">Followed by 56 users</div>
                             </div>
@@ -1426,7 +935,7 @@ You can trigger Dependabot actions by commenting on this PR:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 957k out of 58.8m repositories</span>
+                                    <span class="gh">ranked 957k out of 61.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -1607,7 +1116,7 @@ You can trigger Dependabot actions by commenting on this PR:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Oct 2023, 19:13:00 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Oct 2023, 20:07:57 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
